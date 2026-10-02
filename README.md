@@ -15,8 +15,8 @@ The live account has profitable months, losing days, drawdowns, fees, slippage a
 |---|---|
 | Live Polymarket account | [polymarket.com/@ohioism](https://polymarket.com/@ohioism) |
 | Public profile wallet | [`0x361528e242bc6cc789ac8da6fd5cb98046178fdf`](https://polymarket.com/profile/0x361528e242bc6cc789ac8da6fd5cb98046178fdf) |
-| Commercial license | Telegram [@ohioism](https://t.me/ohioism) |
-| Capital or R&D partnership | Telegram [@0xohioism](https://t.me/0xohioism) |
+| Commercial license | Telegram [@ohioism](https://t.me/ohioism1) |
+| Capital or R&D partnership | Telegram [@ohioism](https://t.me/ohioism1) |
 | Twitter | Twitter [@0xohioism](https://t.me/0xohioism) |
 | Research notes | [medium.com/@ohioism](https://medium.com/@ohioism) |
 
@@ -343,7 +343,7 @@ This repository is not financial, investment, tax or legal advice and is not a p
 | Channel | Link |
 |---|---|
 | Polymarket | [@ohioism](https://polymarket.com/@ohioism) |
-| Telegram | [@ohioism](https://t.me/ohioism) |
+| Telegram | [@ohioism](https://t.me/ohioism1) |
 | Medium | [@ohioism](https://medium.com/@ohioism) |
 
 When contacting me, please state whether you are interested in a **commercial license**, a **capital partnership**, or **new-bot R&D**.
