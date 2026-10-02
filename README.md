@@ -326,7 +326,7 @@ Potential R&D work includes:
 
 ## Security
 
-- The only Telegram contact listed by this repository is [@ohioism](https://t.me/ohioism).
+- The only Telegram contact listed by this repository is [@ohioism](https://t.me/ohioism1).
 - Do not send funds based only on screenshots or direct messages.
 - Never send a seed phrase or private key through Telegram, email or a shared document.
 - Verify the public account, wallet, deliverables and written terms before payment or capital deployment.
