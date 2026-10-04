@@ -17,7 +17,7 @@ The live account has profitable months, losing days, drawdowns, fees, slippage a
 | Public profile wallet | [`0x361528e242bc6cc789ac8da6fd5cb98046178fdf`](https://polymarket.com/profile/0x361528e242bc6cc789ac8da6fd5cb98046178fdf) |
 | Commercial license | Telegram [@ohioism](https://t.me/ohioism1) |
 | Capital or R&D partnership | Telegram [@ohioism](https://t.me/ohioism1) |
-| Twitter | Twitter [@0xohioism](https://t.me/0xohioism) |
+| Twitter | Twitter [@0xohioism](https://x.com/0xohioism) |
 | Research notes | [medium.com/@ohioism](https://medium.com/@ohioism) |
 
 > **No guaranteed returns.** Historical account results are not a promise that another account, configuration, market regime or deployment will produce the same result.
