@@ -15,6 +15,7 @@ The live account has profitable months, losing days, drawdowns, fees, slippage a
 |---|---|
 | Live Polymarket account | [polymarket.com/@ohioism](https://polymarket.com/@ohioism) |
 | Public profile wallet | [`0x361528e242bc6cc789ac8da6fd5cb98046178fdf`](https://polymarket.com/profile/0x361528e242bc6cc789ac8da6fd5cb98046178fdf) |
+| Trading Course | [https://ohioismquant.vip/](https://ohioismquant.vip/) |
 | Commercial license | Telegram [@ohioism](https://t.me/ohioism1) |
 | Capital or R&D partnership | Telegram [@ohioism](https://t.me/ohioism1) |
 | Twitter | Twitter [@0xohioism](https://x.com/0xohioism) |
